@@ -3,6 +3,7 @@ public abstract class sampleabstract {
 	
 	abstract void m1();{
 		System.out.println(" method m1  abstarct class ");
+		System.out.println(" method m1  abstarct class ");
 	}
 	public void m2(){
 		System.out.println("m2 Method abstact class ");
