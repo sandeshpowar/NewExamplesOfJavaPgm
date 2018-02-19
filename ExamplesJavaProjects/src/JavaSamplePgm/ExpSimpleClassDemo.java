@@ -19,7 +19,7 @@ public class ExpSimpleClassDemo {
 		l1.add(s2);		
 		l1.add(s3);
 		l1.add(s4);
-		l1.add(s5);
+		l1.add(s5);	
 		System.out.println("Given Set="+l1);
 		
 		

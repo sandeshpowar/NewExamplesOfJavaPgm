@@ -15,7 +15,7 @@ public abstract class sampleabstract {
 		sampleabstract s4 =new xEmployee();
 		s2.m1();
 		s2.m4();
-	
+
 		
 		s3.m1();
 		
